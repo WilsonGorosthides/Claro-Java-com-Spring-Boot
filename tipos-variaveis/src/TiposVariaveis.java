@@ -16,8 +16,7 @@ public class TiposVariaveis {
  
          // Tipo Booleano
          boolean exemploBoolean = true;      // Ocupa 1 bit (true ou false)
-         // constante
-         final double VALOR_DE_PI = 3.14;
+    
          // Impressão dos valores
          System.out.println("byte: " + exemploByte);
          System.out.println("short: " + exemploShort);
