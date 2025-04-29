@@ -1,0 +1,7 @@
+# Ignorar arquivos do IntelliJ
+.idea/
+*.iml
+out/
+
+# Ignorar arquivos de sistema
+.DS_Store
