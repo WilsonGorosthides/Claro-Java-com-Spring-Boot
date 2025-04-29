@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CONTA-BANCO/CONTA-BANCO.iml" filepath="$PROJECT_DIR$/CONTA-BANCO/CONTA-BANCO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Claro-Java-com-Spring-Boot.iml" filepath="$PROJECT_DIR$/.idea/Claro-Java-com-Spring-Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SISTEMA-SMART-TV/SISTEMA-SMART-TV.iml" filepath="$PROJECT_DIR$/SISTEMA-SMART-TV/SISTEMA-SMART-TV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
+    </modules>
+  </component>
+</project>
